@@ -8,7 +8,7 @@ The application can be found deployed via [this link](https://immense-ravine-862
 **Note:** The application may take a few moments to full load the IndexedDB database. It may be necessary to perform a hard refresh (Ctrl + Shift + R) on the application after waiting a few moments to have the header display properly. 
 
 ## Preview of the Application
-![A preview of the application](https://github.com/ottobisno/tech-blog/blob/main/preview.JPG)
+![A preview of the application](https://github.com/ottobisno/text-editor/blob/main/preview.JPG)
 
 ## Questions
 
